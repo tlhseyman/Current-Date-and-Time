@@ -10,3 +10,4 @@ public class CurrentDateAndTime {
         System.out.println(myDate.toString());
     }
 }
+//displayed current date&time succesfully
